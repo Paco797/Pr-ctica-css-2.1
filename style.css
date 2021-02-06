@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+}
+header{
+    text-align: center;
+}
+span.S{
+    color: black;
+    
+    font-size: 80px;
+}
+span.vida:hover{
+    background-color: yellow;
+    color: red;
+}
+span.productos:hover{
+    background-color: yellow;
+    color: red;
+}
+span.empresas:hover{
+    background-color: yellow;
+    color: red;
+}
+.azul{
+    color: blue;
+}
+article.subencabezado{
+    text-align: center;
+}
+article.primerpárrafo::first-line{
+    color: red;
+}
+a:link{
+    background-color: white;
+}
+a:visited{
+    background-color: blue;
+    color: white;
+}
+img{
+    position: relative;
+    float: right;
+    top: -80px;
+}
